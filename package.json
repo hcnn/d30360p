@@ -1,0 +1,9 @@
+{
+  "name": "d30360p",
+  "version": "0.1.0",
+  "repo": "hcnn/d30360p",
+  "description": "Date difference in years according to the 30E+/360 daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "30E+/360"],
+  "license": "MIT",
+  "src": ["d30360p.c", "d30360p.h"]
+}
